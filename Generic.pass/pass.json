@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.com.bempromotora.businesscard",
+  "serialNumber": "8j23fm3",
+
+  "teamIdentifier": "995A55RA5B",
+
+  "barcode": {
+    "message": "BEGIN:VCARD\nVERSION:3.0\nN:Zanotto;Eduardo\nFN:Eduardo Zanotto\nORG:Bem Promotora\nTITLE:Líder de Inovação\nEMAIL:ezanotto@bempromotora.com.br\nURL:https://tecbemlabs.com.br/portal/\nTEL;TYPE=CELL:+5551981275334\nEND:VCARD",
+    "format": "PKBarcodeFormatQR",
+    "messageEncoding": "iso-8859-1"
+  },
+  "organizationName": "Bem Promotora",
+  "description": "Eduardo Zanotto",
+  "logoText": "",
+  "foregroundColor": "rgb(255, 255, 255)",
+  "backgroundColor": "rgb(255, 123, 38)",
+  "generic": {
+    "primaryFields": [
+      {
+        "key": "name",
+        "value": "Eduardo Zanotto"
+      }
+    ],
+    "secondaryFields": [
+      {
+        "key": "email",
+        "label": "E-MAIL",
+        "value": "ezanotto@bempromotora.com.br"
+      }
+    ],
+    "auxiliaryFields": [
+      {
+        "key": "tel",
+        "label": "TELEFONE",
+        "value": "(51) 98877-6655"
+      },
+      {
+        "key": "title",
+        "label": "Cargo",
+        "value": "Líder de Inovação"
+      }
+    ],
+    "backFields": []
+  }
+}
